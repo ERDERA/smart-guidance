@@ -1,1 +1,2 @@
-# smart-guidance
+# Smart Guidance WG
+Placeholder

@@ -16,19 +16,19 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      # checkout cde model repository
+      # checkout repository
       - uses: actions/checkout@v2
         with:
           ref: ${{ github.head_ref }}
       # List files
-      - name: List cde repo content
+      - name: List repo content
         run: ls
       # Copy README.md to index.md
       - name: Copy README file content
         id: copy-readme-file
         run: cp -rf README.md index.md
       # List files
-      - name: List cde repo content
+      - name: List repo content
         run: ls
       # Update md file
       - name: Update markup files in the repository

@@ -14,7 +14,7 @@ The first step is to sign up for an account.  We recommend that you use your ins
 
 Once you activate your account and log in, you will see the welcome page.
 
-![welcome page pic](https://raw.githubusercontent.com/ejp-rd-vp/smart-guidance/main/screenshotsForUserGuide/2_welcome_page.png)
+![welcome page pic](https://github.com/ejp-rd-vp/smart-guidance/blob/main/screenshotsForUserGuide/2_new_welcome_page.png)
 
 You can see tabs on the left for Knowledge Models and Projects. A project is created from a knowledge model that is underlying the questionnaire. The Smart Guidance questionnaire is described in the knowledge model titled, **EJP RD Smart Guidance Knowledge Model**. This knowledge model should be used to create a project for Smart Guidance.
 ### Create and work on a project
